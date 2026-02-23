@@ -164,5 +164,6 @@
   Time-Series Analysis | Feature Engineering
   Rolling Validation | Scenario Simulation
 
-  
+
+Author Mohit Kushwaha LinkedIn: www.linkedin.com/in/mohit-kushwaha-024401112
   
